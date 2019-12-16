@@ -1,0 +1,9 @@
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\bin\Debug\netstandard2.0\RecipesManagement.DataAccess.deps.json
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\bin\Debug\netstandard2.0\RecipesManagement.DataAccess.dll
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\bin\Debug\netstandard2.0\RecipesManagement.DataAccess.pdb
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.csprojAssemblyReference.cache
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.csproj.CoreCompileInputs.cache
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.AssemblyInfoInputs.cache
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.AssemblyInfo.cs
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.dll
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement.DataAccess\obj\Debug\netstandard2.0\RecipesManagement.DataAccess.pdb

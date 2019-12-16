@@ -1,0 +1,9 @@
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.deps.json
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.dll
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.csprojAssemblyReference.cache
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.csproj.CoreCompileInputs.cache
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.AssemblyInfoInputs.cache
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.AssemblyInfo.cs
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\bin\Debug\netstandard2.0\EmployeeManagement.DataAccess.pdb
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.dll
+E:\My Files\SEDC\projects\EmployeeManagement.DataAccess\obj\Debug\netstandard2.0\EmployeeManagement.DataAccess.pdb

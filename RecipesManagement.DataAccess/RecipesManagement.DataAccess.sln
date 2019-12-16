@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipesManagement.DataAccess", "RecipesManagement.DataAccess.csproj", "{724BD78F-6B8A-40E5-939E-D1DB023E0B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724BD78F-6B8A-40E5-939E-D1DB023E0B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724BD78F-6B8A-40E5-939E-D1DB023E0B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724BD78F-6B8A-40E5-939E-D1DB023E0B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724BD78F-6B8A-40E5-939E-D1DB023E0B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3803B45E-B51D-4271-ABE7-A54907B58C35}
+	EndGlobalSection
+EndGlobal
