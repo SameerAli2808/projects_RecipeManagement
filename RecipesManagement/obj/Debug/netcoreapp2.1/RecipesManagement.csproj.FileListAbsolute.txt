@@ -27,3 +27,4 @@ E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement\bin\Debug\netcoreap
 E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement\obj\Debug\netcoreapp2.1\RecipesManagement.Views.pdb
 E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement\obj\Debug\netcoreapp2.1\RecipesManagement.csproj.CopyComplete
 E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+E:\My Files\SEDC\projects_RecipeManagement\RecipesManagement\obj\Debug\netcoreapp2.1\RecipesManagement.csprojAssemblyReference.cache
